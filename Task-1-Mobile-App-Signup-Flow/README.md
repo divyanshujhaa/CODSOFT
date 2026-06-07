@@ -17,3 +17,6 @@ A fitness app signup flow designed in Figma during my UI/UX Internship at CodSof
 3. Verification Screen
 4. Goal Selection Screen
 5. Success Screen
+
+## Figma Prototype
+(https://www.figma.com/design/eSeabUVm9mUNUSMMdcqsmJ/Task-1---ELITEFIT?node-id=1-2579&t=C3nHN6eAQQQSo3EG-1)
